@@ -7,9 +7,9 @@ El juego se ejecuta a partir de la main class llamada "NewClass" desde donde se 
 Clase Tablero: Inicializa el tablero de Shogi como una matriz 9x9 con la siguiente distribucion:
 Nomenclatura :
 10 Casillero Vacío
-11 Peon Jugador 1
-12 Torre Jugador 1
-13 Alfil Jugador 1
+11 Peon Jugador 1 <br>
+12 Torre Jugador 1 <br>
+13 Alfil Jugador 1 <br>
 15 Lancero Jugador 1
 16 Caballo Jugador 1
 17 General Plateado Jugador 1
