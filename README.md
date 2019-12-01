@@ -2,7 +2,7 @@
 Postulacion para Eventbrite
 Ejercicio 1:Shogi (entrega parcial)
 
-El juego se ejecuta a partir de la main class llamada "New Class" desde donde se llama a otras clases:
+El juego se ejecuta a partir de la main class llamada "NewClass" desde donde se llama a otras clases:
 
 Clase Tablero: Inicializa el tablero de Shogi como una matriz 9x9 con la siguiente distribucion:
 Nomenclatura :
